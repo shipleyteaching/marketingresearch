@@ -1,14 +1,540 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <title>Redirect</title>
-  <script type="text/javascript">
-    var redirects = {"":"../index.html"};
-    var hash = window.location.hash.startsWith('#') ? window.location.hash.slice(1) : window.location.hash;
-    var redirect = redirects[hash] || redirects[""] || "/";
-    window.document.title = 'Redirect to  ' +  redirect;
-    window.location.replace(redirect);
-  </script>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Garrett M. Shipley">
+
+<title>Marketing Research &amp; Insights - Marketing Research &amp; Insights</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
 </head>
-<body>
-</body>
-</html>
+
+<body class="nav-sidebar docked nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Marketing Research &amp; Insights</span>
+  </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="../docs/syllabus.html" aria-current="page">Syllabus</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../docs/exams/exams.html">Exams</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../docs/assignments/group-project.html">Assignments/Group Project</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../docs/resources/overview.html">Resources</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../docs/about.html">Contact</a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-links" role="button" data-bs-toggle="dropdown" aria-expanded="false">Links</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-links">    
+        <li class="dropdown-header"><a href="https://cas.tennessee.edu/qualtrics">Qualtrics</a></li>
+        <li class="dropdown-header"><a href="https://cas.tennessee.edu/cas/login?service=https%3A%2F%2Futk.instructure.com%2Flogin%2Fcas">Canvas</a></li>
+    </ul>
+  </li>
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Marketing Research &amp; Insights</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+        <div class="sidebar-tools-main">
+    <a href="mailto:gshiple2@vols.utk.edu" title="" class="sidebar-tool px-1"><i class="bi bi-envelope-fill"></i></a>
+    <a href="" title="" class="sidebar-tool px-1"><i class="bi bi-docs/images/canvas.png"></i></a>
+</div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/syllabus.html" class="sidebar-item-text sidebar-link active">Syllabus</a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Exams</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/exams/exam1.html" class="sidebar-item-text sidebar-link">Exam 1</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/exams/exam2.html" class="sidebar-item-text sidebar-link">Exam 2</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Group Project</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/assignments/assignment1.html" class="sidebar-item-text sidebar-link">Assignment 1</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/assignments/assignment2.html" class="sidebar-item-text sidebar-link">Assignment 2</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Resources</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/resources/google-cheatsheet.html" class="sidebar-item-text sidebar-link">Google advanced search cheatsheet</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/resources/research-writing.html" class="sidebar-item-text sidebar-link">Scientific writing</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/resources/writing-interview-questions.html" class="sidebar-item-text sidebar-link">Writing interview questions</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/resources/citations.html" class="sidebar-item-text sidebar-link">Citations</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">Contact</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../docs/about.html" class="sidebar-item-text sidebar-link">Garrett M. Shipley</a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Marketing Research &amp; Insights</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Garrett M. Shipley </p>
+          </div>
+  </div>
+    
+    
+  </div>
+  
+
+</header>
+
+<p>This course is designed to enable students to understand the market research process for marketing insights. Students learn how to conduct and use research to make decisions and recommendations and learn how to communicate research findings/leverage research to formulate strategic plans.</p>
+<p>Students will gain experience with statistical analysis using SPSS© software, Qualtrics which is a survey design program, and Prolific which is a data-gathering/crowdsourcing site. A comprehensive group project will provide an opportunity to demonstrate all these skills.</p>
+<p>Any student who has not completed the following prerequisites or is taking the listed corequisites and remains in the course without the consent of the professor, the academic advisor, and the head of the Marketing Department may be dropped from the course.</p>
+<ul>
+<li><strong>Prerequisites:</strong> BUAD 332 or BUAD 338</li>
+<li><strong>Corequisites:</strong> MARK 350</li>
+</ul>
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
+<p>After completing this course, students should:</p>
+<p>1. Understand how to leverage research for marketing insights and formulate strategic plans.<br>
+2. Be able to create a survey for a specific marketing research problem using Qualtrics.<br>
+3. Use SPSS to apply basic statistical analyses to marketing data.<br>
+4. Be able to interpret and communicate the results of this analysis to a client/manager.</p>
+</section>
+<section id="assignments" class="level2">
+<h2 class="anchored" data-anchor-id="assignments">Assignments</h2>
+<p>There will be 3 group assignments out of class (Assignment 1; Objective 1; Objective 2) and multiple in-class assignments (e.g., creating a survey, coding guide, basic descriptive analysis, difference tests, associative tests) due over the semester to ensure all groups are on track for completing the project. Assignments are considered late if not turned in by the beginning of class.</p>
+<section id="group-project" class="level3">
+<h3 class="anchored" data-anchor-id="group-project">Group Project</h3>
+<p>The group project is due on the last day of the semester by midnight. This is when the canvas course locks you out, so you will not be able to turn anything in late. Included in the course calendar are many “checkpoints” to ensure that your group is on track. Use the checkpoints as a guide for finishing the project on time.</p>
+<p>It should be noted that, although the grade for the group project is shared (i.e., everyone in the group will receive the same grade), this can be changed if I believe group members are not pulling their weight. Additionally, a group can put a group member on probation if that member has missed more than 2 classes. Excused absences do not count toward this. If the group member continues to be problematic, the group can “fire” that member. Students who are “fired” from their group will be responsible for completing the group project on their own. If the group is considering firing a member of their group, you must receive my explicit permission to do so, lest the group project descends into anarchy.</p>
+</section>
+<section id="exams" class="level3">
+<h3 class="anchored" data-anchor-id="exams">Exams</h3>
+<p>There will be two exams. My objective with these exams will be to test how well you understand the concepts I have taught during the lectures/assigned in the text. In general, my goal is to help you develop better critical thinking skills. Thus, the exams are designed to make you <em>apply</em> the covered concepts.</p>
+<p>Exams will be comprised of multiple-choice and True/False questions. No make-up exams will be scheduled for any reason other than a well-documented medical release signed by a physician or some emergency. If you have to miss any scheduled exam, you must notify me prior to your absence in order to make arrangements for a makeup. If you miss an exam without notifying me or without the documentation mentioned above, you will receive a zero for that test.</p>
+<p>Exams will be administered through Canvas using Respondus Lockdown Browser with Monitor. This means you will need to have a laptop computer with a working microphone and webcam. You will have a 12-hour window (8 am to 8 pm) to take exams on your assigned day. You will have 1 hour and 30 minutes to complete exams. The exams will shut down at 8 pm so please be sure to start them by 6:30 pm.</p>
+</section>
+</section>
+<section id="grades" class="level2">
+<h2 class="anchored" data-anchor-id="grades">Grades</h2>
+<p>This is just a brief breakdown of the grades for the course.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Assignment</th>
+<th>Grade Percentage</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Exam 1</td>
+<td>25%</td>
+</tr>
+<tr class="even">
+<td>Exam 2</td>
+<td>25%</td>
+</tr>
+<tr class="odd">
+<td>Group Project</td>
+<td>25%</td>
+</tr>
+<tr class="even">
+<td>Assignment 1</td>
+<td>20%</td>
+</tr>
+<tr class="odd">
+<td>Attendance/Participation</td>
+<td>5%</td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Letter Grade</th>
+<th>Numeric Range</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>93 - 100</td>
+</tr>
+<tr class="even">
+<td>A-</td>
+<td>90 - 92</td>
+</tr>
+<tr class="odd">
+<td>B+</td>
+<td>87 - 89</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>83 - 86</td>
+</tr>
+<tr class="odd">
+<td>B-</td>
+<td>80 - 82</td>
+</tr>
+<tr class="even">
+<td>C+</td>
+<td>77 - 79</td>
+</tr>
+<tr class="odd">
+<td>C</td>
+<td>73 - 76</td>
+</tr>
+<tr class="even">
+<td>C-</td>
+<td>70 - 72</td>
+</tr>
+<tr class="odd">
+<td>D+</td>
+<td>67 - 69</td>
+</tr>
+<tr class="even">
+<td>D</td>
+<td>63 - 68</td>
+</tr>
+<tr class="odd">
+<td>D-</td>
+<td>60 - 62</td>
+</tr>
+<tr class="even">
+<td>F</td>
+<td>Below 60</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="utk-campus-syllabus" class="level2">
+<h2 class="anchored" data-anchor-id="utk-campus-syllabus">UTK Campus Syllabus</h2>
+<section id="student-resources" class="level3">
+<h3 class="anchored" data-anchor-id="student-resources">Student Resources</h3>
+<p>Hopefully, everyone has been made aware of these resources. The university offers these to all enrolled students.</p>
+<ul>
+<li><a href="http://studentsuccess.utk.edu/">Academic Success Center</a> (Academic support resources)</li>
+<li><a href="http://career.utk.edu/">Center for Career Development and Academic Exploration</a> (Career counseling and resources; Handshake job search system)</li>
+<li><a href="http://catalog.utk.edu/">Course Catalogs</a> (Listing of academic programs, courses, and policies)</li>
+<li><a href="http://hilltopics.utk.edu/">Hilltopics</a> (Campus and academic policies, procedures, and standards of conduct)</li>
+<li><a href="https://help.utk.edu/">OIT HelpDesk</a> - (865) 974-9900</li>
+<li><a href="https://bannerssb.utk.edu/kbanpr/bwckschd.p_disp_dyn_sched">Schedule of Classes/Timetable</a></li>
+<li><a href="http://studenthealth.utk.edu/">Student Health Center</a> (visit the site for a list of services)</li>
+<li><a href="http://advising.utk.edu/">Undergraduate Academic Advising</a> (Advising resources, course requirements, and major guides)</li>
+<li><a href="http://www.lib.utk.edu/">University Libraries</a> (Access to library resources, databases, course reserves, and services)</li>
+</ul>
+</section>
+<section id="university-civility-statement" class="level3">
+<h3 class="anchored" data-anchor-id="university-civility-statement">University Civility Statement</h3>
+<blockquote class="blockquote">
+<p>“Civility is genuine respect and regard for others: politeness, consideration, tact, good manners, graciousness, cordiality, affability, amiability, and courteousness. Civility enhances academic freedom and integrity and is a prerequisite to the free exchange of ideas and knowledge in the learning community. Our community consists of students, faculty, staff, alumni, and campus visitors. Community members affect each other’s well-being and have a shared interest in creating and sustaining an environment where all community members and their points of view are valued and respected. Affirming the value of each member of the university community, the campus asks that all its members adhere to the principles of civility and community adopted by the campus.”</p>
+</blockquote>
+<p><a href="http://civility.utk.edu/">More information</a></p>
+</section>
+<section id="emergency-alert-system" class="level3">
+<h3 class="anchored" data-anchor-id="emergency-alert-system">Emergency Alert System</h3>
+<p>The University of Tennessee is committed to providing a safe environment to learn and work. When you are alerted to an emergency, please take appropriate action. Learn more about what to do in an emergency and sign up for <a href="http://safety.utk.edu/">UT Alerts</a>. Check the emergency posters near exits and elevators for building-specific information. In the event of an emergency, the course schedule and assignments may be subject to change. If changes to graded activities are required, reasonable adjustments will be made, and you will be responsible for meeting revised deadlines.</p>
+</section>
+<section id="academic-integrity" class="level3">
+<h3 class="anchored" data-anchor-id="academic-integrity">Academic Integrity</h3>
+<p>Each student is responsible for their integrity in academic life and for adhering to UT’s Honor Statement. The Honor Statement reads: “An essential feature of the University of Tennessee, Knoxville is a commitment to maintaining an atmosphere of intellectual integrity and academic honesty. As a student at the university, I pledge that I will neither knowingly give nor receive any inappropriate assistance in academic work, thus affirming my own personal commitment to honor and integrity.”</p>
+</section>
+<section id="your-role-in-improving-the-course-through-assessment" class="level3">
+<h3 class="anchored" data-anchor-id="your-role-in-improving-the-course-through-assessment">Your Role in Improving the Course Through Assessment</h3>
+<p>At UT, it is our collective responsibility to improve the state of teaching and learning. During the semester you may be requested to assess aspects of this course either during class or after the class. You are encouraged to respond to these various forms of assessment as a means of continuing to improve the quality of the UT learning experience.</p>
+</section>
+<section id="disability-statement" class="level3">
+<h3 class="anchored" data-anchor-id="disability-statement">Disability Statement</h3>
+<p>Any student who feels they may need an accommodation based on the impact of a disability should contact <a href="http://sds.utk.edu/">Student Disabilities Services</a> in Dunford Hall, at 865-974-6087, or by video relay at, 865-622-6566, to coordinate reasonable academic accommodations.</p>
+</section>
+<section id="accessibility-policy-and-training" class="level3">
+<h3 class="anchored" data-anchor-id="accessibility-policy-and-training">Accessibility Policy and Training</h3>
+<p>More information can be found at <a href="http://accessibility.utk.edu">http://accessibility.utk.edu</a></p>
+</section>
+<section id="wellness" class="level3">
+<h3 class="anchored" data-anchor-id="wellness">Wellness</h3>
+<p><a href="http://counselingcenter.utk.edu/">The Student Counseling Center</a> is the university’s primary facility for personal counseling, psychotherapy, and psychological outreach and consultation services.</p>
+<p><a href="http://wellness.utk.edu/">The Center for Health Education and Wellness</a> manages 974-HELP, the distressed student protocol, case management, the Sexual Assault Response Team, and the Threat Assessment Task Force.</p>
+</section>
+<section id="social-distancing-covid-19-procedures" class="level3">
+<h3 class="anchored" data-anchor-id="social-distancing-covid-19-procedures">Social Distancing &amp; Covid-19 Procedures</h3>
+<p>Students are required to wear face masks at all times and maintain social distance (6 feet between individuals in traditional classrooms, or, in instructional laboratories and similar settings, only a few minutes in closer proximity when necessary to achieve learning objectives). Students who are feeling ill or experiencing symptoms such as sneezing, coughing, or a higher than normal temperature will be excused from class and should stay at home.</p>
+<p>Instructors have the right to ask those who are not complying with these requirements to leave class in the interest of everyone’s health and safety. If a student refuses to comply with these requirements, the instructor has the right to cancel a class.</p>
+<p>Additionally, following other simple practices will promote good health in and out of the classroom, such as frequent and thorough hand washing, wiping down desks and seats with disinfectant wipes whenever possible, not sharing personal items such as pens and cell phones, and avoiding crowded hallways and other enclosed spaces.</p>
+<p>The Volunteer Creed reminds us that we bear the torch in order to give light to others. As Volunteers, we commit to caring for one another and for the members of the communities in which we live, work, and learn. This semester, the University asks that we all demonstrate the Volunteer spirit by following these and other health guidelines and requirements.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/github\.com\/shipleyteaching\/marketingresearch/);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
