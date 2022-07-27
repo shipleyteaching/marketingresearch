@@ -1,0 +1,7 @@
+# Google advanced search cheatsheet
+
+I often receive emails from students struggling to find information about their company. Usually, their issues can be solved using advanced search operators. [More information](https://support.google.com/websearch/answer/2466433).
+
+
+![](images/google-search-cheatsheet.jpg)
+

@@ -1,0 +1,16 @@
+---
+sidebar: false
+title: "{{< var prof.name >}}"
+about:
+  template: solana
+  image: images/profile.jpg
+  links: 
+      - icon: envelope-fill
+        text: "{{< var prof.email.addr >}}"
+        href: "mailto:gshiple2@vols.utk.edu?subject=MARK360&body=Dear%20Professor%Shipley,%0A%0A"
+---
+
+## Some words about me
+
+This photo was taken when I was young and full of life.
+

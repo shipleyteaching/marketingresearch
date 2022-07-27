@@ -1,0 +1,192 @@
+# Assignment 1
+
+Here are a few important details to keep in mind.
+
+- Approximately 15 pages, double-spaced, must be typed (this does not include the interview appendix or references)
+- Minimum of 10 in-text references cited
+- Minimum of 2 interviews per group member (group members _cannot_ interview each other)
+- Typed-up summaries of each interview need to be provided in the Appendix after the reference section (please include labels of who did the interview).
+
+The purpose of this assignment is to justify your research. This can be achieved by making a persuasive argument that the research is necessary. More specifically, I want you to include (1) an overview of the company you plan to study, (2) a description of what consumers think/believe about the company, and (3) an outline of your research objectives.
+
+| Section                   | Grade Percent |
+| ------------------------- | :------------ |
+| Trend in Sales            | 5%            |
+| Major Competitors         | 15%           |
+| Consumer Segments         | 10%           |
+| Legal Threats             | 5%            |
+| Sociocultural Trends      | 15%           |
+| Economic Trends           | 5%            |
+| Technological Innovations | 10%           |
+| Interviews                | 15%           |
+| Objectives                | 20%           |
+
+: Assignment 1 Grading Summary
+
+## Market Analysis
+
+The goal here is to provide a solid overview of the market you plan to study. Several sections should be explored and I have outlined some questions that I believe are pertinent to the topics. Note that these questions are included to help you get started, you do not need to answer each of the questions I provide.
+
+| Section                                                             | Grade Percent |
+| ------------------------------------------------------------------- | :------------ |
+| [Trend in Sales](#trends-in-sales)                                  | 5%            |
+| [Major Competitors](#major-competitors)                             | 15%           |
+| [Consumer Segments](#consumer-segments)                             | 10%           |
+| [Legal Threats](#legal-threats)                                     | 5%            |
+| [Socio-Cultural Issues or Trends](#socio-cultural-issues-or-trends) | 15%           |
+| [Economic Trends](#economic-trends)                                 | 5%            |
+| [Technological Innovations](#technology-innovations)                | 10%           |
+
+: Section Grade Summary
+
+### Trends in Sales
+
+- How has the company been performing in the past 5 years?
+- Has the company been growing or downsizing (i.e., number of employees, number of physical locations)?
+- Is there any information as to why the company has been growing or downsizing?
+- What do their stock trends look like?
+- Possible Sources:
+  - Yahoo Finance
+  - SEC
+
+### Major Competitors
+
+- What about the company makes it different from its competition?
+- Does the branding differ from competitors?
+- Do the products differ from major competitors (quality, style, etc.)?
+- Do they have a unique value proposition?
+- These need to be substantiated differences, not just observations.
+
+### Consumer Segments
+
+- Who is the company's target market?
+- How are they targeting them?
+- Why is this a valuable target market?
+- These need to be segments that the company mentions in press releases or other articles. These are not hypothetical segments.
+
+### Legal Threats
+
+- Has the company faced legal threats that would influence consumer perceptions?
+- Why would these legal actions influence consumers?
+
+### Socio-Cultural Issues or Trends
+
+- What societal trends might be influencing the company's performance?
+- Why is the issue influencing the company's performance?
+- Examples of cultural trends
+- Examples of social issues
+
+### Economic Trends
+
+- What economic factors might be influencing consumers' decisions to purchase products?
+- Have any policies prevented consumers from purchasing from the company or enabled more consumers to buy (embargos, tariffs, etc.)?
+- Are consumers unemployed and unable to afford the products?
+- Could the current business cycle be influencing consumers?
+- Could inflation be influencing consumers?
+- Are there any market failures that might be reducing or increasing consumer desire to purchase products (e.g., consumers don't want to buy products that will create more garbage or pollutants because of negative externalities, consumers wish to buy electric cars because of environmental externalities and, possibly, tax breaks)
+
+### Technology Innovations
+
+- What technology is the company providing consumers that could make their shopping experiences better or worse?
+- Why is this technology providing these benefits or problems?
+
+## Interviews
+
+Based on the secondary data you collected, what do you think are the major issues or opportunities? The purpose of this section is to collect data from interviews trying to see what others believe are the critical factors of the problem or opportunity you have noticed. For example, suppose you learn that customer service is problematic based on secondary data. In that case, you can ask questions about customer service in the interviews to help you identify when customer service is lacking (weekends, busy hours, etc.). The discussions should help you see real customers’ perceptions of your company/product (strengths and weaknesses). In this section, you will summarize what you found from your interviews.
+
+A few notes:
+
+- Aim for about 6 questions
+- Start broad and then narrow
+  - General impressions of the company
+  - Take a minute to look over the company's website (feel free to pull up the website so they have a visual)
+  - What are your beliefs/experiences with the customer service at/with X?
+  - See the [recommendations](#recommendations-for-writing-interview-questions) below for more details about writing questions
+
+For the 1 on 1 interview:
+
+- Start with structured questions and then ask follow-up questions as needed
+- Take notes during the interview (type up the interview later tonight while fresh in your memory)
+- If your interview only lasted 5 minutes and you mainly got yes/no responses, be sure to ask more follow-up questions and ask the person to give an example in the following interview
+- see the [example](#example-interview-record) below for formatting the responses
+
+### Example Interview Record
+
+Interview #: Name of the Person Interviewed
+Conducted By: Name of the Person Who Conducted the Interview
+
+Question 1:
+
+- Response:
+
+Question 2:
+
+- Response:
+
+Question 3:
+
+- Response:
+
+Question 4:
+
+- Response:
+
+Question 5:
+
+- Response:
+
+Question 6:
+
+- Response:
+
+Additional Information I learned from the interview:
+
+{{< include ../resources/writing-interview-questions.qmd >}}
+
+**Notice that each of these examples includes "you" or "your." At the root of all of these questions is essentially "tell me about _your_ thoughts about Company/Product/Brand X."**
+
+## Research Objectives
+
+The following section will include your research objectives. Research objectives are what you want to study in the research project. Your research objectives should stem directly from your primary and secondary research findings. Include as many research objectives as you feel you need to explore your research topic (for this project, aim for 6).
+
+- Make a bullet-pointed list of your objective. Bullet point lists are easier to read and write.
+- They come after the introduction and interview section because they should set up why you are studying these issues.
+
+### Examples
+
+- To determine how helpful consumers perceive Sears employees to be.
+  - This might be a research objective if you were studying Sears and found out that customers at JCPenney perceive JCPenney employees to be helpful. It would be essential to know what Sears customers think on this same issue.
+- To assess consumers’ knowledge of Pizza Hut’s environmentally friendly programs and products.
+  - This might be a research objective if you were studying Pizza Hut and realized that green marketing initiatives are essential to younger consumers, and these are consumers that typically consume the most pizza.
+- To assess college-aged consumers’ likelihood to buy organic foods.
+  - This might be a research objective if you were studying Kroger when they introduced their organic food line to determine how well this line of food might do with the college-age market.
+
+# Grading Rubric
+
+| Section                           | Comments | Grade |
+| --------------------------------- | -------- | :---- |
+| Trend in Sales (5pts)             |          |       |
+| Major Competitors (15pts)         |          |       |
+| Consumer Segments (10pts)         |          |       |
+| Legal Threats (5pts)              |          |       |
+| Sociocultural Trends (15pts)      |          |       |
+| Economic Trends (5pts)            |          |       |
+| Technological Innovations (10pts) |          |       |
+| Interviews (15pts)                |          |       |
+| Objectives (20pts)                |          |       |
+| >= 10 References                  |          |       |
+| Little redundancy                 |          |       |
+| Easily understood                 |          |       |
+| Appropriate formatting            |          |       |
+| Research writing tone             |          |       |
+| Total Grade and General Comments  |          |       |
+
+: Assignment 1 Grading Rubric
+
+# 5 Ways You May Unnecessarily Lose Points
+
+| 1. Not including 10 references
+| 2. Not including the interviews in the Appendix
+| 3. Providing repetitive information
+| 4. Poorly worded sections
+| 5. Excessive typos

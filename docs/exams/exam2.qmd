@@ -1,0 +1,53 @@
+# Exam 2
+
+The following is what will be covered on the second exam.
+
+:::{.callout-important}
+Students tend to do much worse on the second exam than on the first. If you feel intimidated by statistics, please do not let that deter you from asking questions. I understand if you don't want to speak up during class but [please email me]({{< var prof.email.mailto >}}).
+:::
+
+
+## What is/are
+
+- Chi-squared test
+- Independent t-test
+- Paired sample t-test
+- Pearson correlation
+- Spearman correlation
+- Cramer's V
+- Phi coefficient
+- Crosstab
+- Sample
+- Sampling Techniques
+- Bivariate correlation
+- Sampling distribution
+- Gaussian distribution
+- Descriptive analysis
+- Inferential tests/analyses
+- Outliers
+- Measures of variability
+- Measures of centrality
+- Levene's test
+- Shapiro-Wilk's test
+- Population estimation
+
+## When should we use
+
+- Chi-squared test
+- Independent t-test
+- Paired sample t-test
+- Pearson correlation
+- Spearman correlation
+- Cramer's V
+- Phi coefficient
+
+## What are the issues with/limitations of
+
+- Chi-squared test
+- Independent t-test
+- Paired sample t-test
+- Pearson correlation
+- Spearman correlation
+- Cramer's V
+- Phi coefficient
+- Sampling

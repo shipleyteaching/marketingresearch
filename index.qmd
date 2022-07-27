@@ -1,0 +1,131 @@
+---
+title: "{{< var course.name >}}"
+author: "{{< var prof.name >}}"
+aliases: 
+  - docs/syllabus.html
+---
+
+This course is designed to enable students to understand the market research process for marketing insights. Students learn how to conduct and use research to make decisions and recommendations and learn how to communicate research findings/leverage research to formulate strategic plans.
+
+Students will gain experience with statistical analysis using SPSS© software, Qualtrics which is a survey design program, and Prolific which is a data-gathering/crowdsourcing site. A comprehensive group project will provide an opportunity to demonstrate all these skills.
+
+Any student who has not completed the following prerequisites or is taking the listed corequisites and remains in the course without the consent of the professor, the academic advisor, and the head of the Marketing Department may be dropped from the course.
+
+- **Prerequisites:** BUAD 332 or BUAD 338
+- **Corequisites:** MARK 350
+
+## Learning Objectives
+
+After completing this course, students should:
+
+| 1. Understand how to leverage research for marketing insights and formulate strategic plans.
+| 2. Be able to create a survey for a specific marketing research problem using Qualtrics.
+| 3. Use SPSS to apply basic statistical analyses to marketing data.
+| 4. Be able to interpret and communicate the results of this analysis to a client/manager.
+
+## Assignments
+
+There will be 3 group assignments out of class (Assignment 1; Objective 1; Objective 2) and multiple in-class assignments (e.g., creating a survey, coding guide, basic descriptive analysis, difference tests, associative tests) due over the semester to ensure all groups are on track for completing the project. Assignments are considered late if not turned in by the beginning of class.
+
+### Group Project
+
+The group project is due on the last day of the semester by midnight. This is when the canvas course locks you out, so you will not be able to turn anything in late. Included in the course calendar are many “checkpoints” to ensure that your group is on track. Use the checkpoints as a guide for finishing the project on time.
+
+It should be noted that, although the grade for the group project is shared (i.e., everyone in the group will receive the same grade), this can be changed if I believe group members are not pulling their weight. Additionally, a group can put a group member on probation if that member has missed more than 2 classes. Excused absences do not count toward this. If the group member continues to be problematic, the group can "fire" that member. Students who are "fired" from their group will be responsible for completing the group project on their own. If the group is considering firing a member of their group, you must receive my explicit permission to do so, lest the group project descends into anarchy.
+
+### Exams
+
+There will be two exams. My objective with these exams will be to test how well you understand the concepts I have taught during the lectures/assigned in the text. In general, my goal is to help you develop better critical thinking skills. Thus, the exams are designed to make you *apply* the covered concepts.
+
+Exams will be comprised of multiple-choice and True/False questions. No make-up exams will be scheduled for any reason other than a well-documented medical release signed by a physician or some emergency. If you have to miss any scheduled exam, you must notify me prior to your absence in order to make arrangements for a makeup. If you miss an exam without notifying me or without the documentation mentioned above, you will receive a zero for that test.
+
+Exams will be administered through Canvas using Respondus Lockdown Browser with Monitor. This means you will need to have a laptop computer with a working microphone and webcam. You will have a 12-hour window (8 am to 8 pm) to take exams on your assigned day. You will have 1 hour and 30 minutes to complete exams. The exams will shut down at 8 pm so please be sure to start them by 6:30 pm.
+
+
+## Grades
+
+This is just a brief breakdown of the grades for the course.
+
+| Assignment               | Grade Percentage |
+| ------------------------ | ---------------- |
+| Exam 1                   | 25%              |
+| Exam 2                   | 25%              |
+| Group Project            | 25%              |
+| Assignment 1             | 20%              |
+| Attendance/Participation | 5%               |
+
+
+| Letter Grade | Numeric Range |
+| ------------ | ------------- |
+| A            | 93 - 100      |
+| A-           | 90 - 92       |
+| B+           | 87 - 89       |
+| B            | 83 - 86       |
+| B-           | 80 - 82       |
+| C+           | 77 - 79       |
+| C            | 73 - 76       |
+| C-           | 70 - 72       |
+| D+           | 67 - 69       |
+| D            | 63 - 68       |
+| D-           | 60 - 62       |
+| F            | Below 60      |
+
+
+
+## UTK Campus Syllabus
+
+### Student Resources
+
+Hopefully, everyone has been made aware of these resources. The university offers these to all enrolled students.
+
+- [Academic Success Center](http://studentsuccess.utk.edu/) (Academic support resources)
+- [Center for Career Development and Academic Exploration](http://career.utk.edu/) (Career counseling and resources; Handshake job search system)
+- [Course Catalogs](http://catalog.utk.edu/) (Listing of academic programs, courses, and policies)
+- [Hilltopics](http://hilltopics.utk.edu/) (Campus and academic policies, procedures, and standards of conduct)
+- [OIT HelpDesk](https://help.utk.edu/) - (865) 974-9900
+- [Schedule of Classes/Timetable](https://bannerssb.utk.edu/kbanpr/bwckschd.p_disp_dyn_sched)
+- [Student Health Center](http://studenthealth.utk.edu/) (visit the site for a list of services)
+- [Undergraduate Academic Advising](http://advising.utk.edu/) (Advising resources, course requirements, and major guides)
+- [University Libraries](http://www.lib.utk.edu/) (Access to library resources, databases, course reserves, and services)
+
+### University Civility Statement
+
+> “Civility is genuine respect and regard for others: politeness, consideration, tact, good manners, graciousness, cordiality, affability, amiability, and courteousness. Civility enhances academic freedom and integrity and is a prerequisite to the free exchange of ideas and knowledge in the learning community. Our community consists of students, faculty, staff, alumni, and campus visitors. Community members affect each other's well-being and have a shared interest in creating and sustaining an environment where all community members and their points of view are valued and respected. Affirming the value of each member of the university community, the campus asks that all its members adhere to the principles of civility and community adopted by the campus.”
+
+[More information](http://civility.utk.edu/)
+
+### Emergency Alert System
+
+The University of Tennessee is committed to providing a safe environment to learn and work. When you are alerted to an emergency, please take appropriate action. Learn more about what to do in an emergency and sign up for [UT Alerts](http://safety.utk.edu/). Check the emergency posters near exits and elevators for building-specific information. In the event of an emergency, the course schedule and assignments may be subject to change. If changes to graded activities are required, reasonable adjustments will be made, and you will be responsible for meeting revised deadlines.
+
+### Academic Integrity
+
+Each student is responsible for their integrity in academic life and for adhering to UT's Honor Statement. The Honor Statement reads: “An essential feature of the University of Tennessee, Knoxville is a commitment to maintaining an atmosphere of intellectual integrity and academic honesty. As a student at the university, I pledge that I will neither knowingly give nor receive any inappropriate assistance in academic work, thus affirming my own personal commitment to honor and integrity.”
+
+### Your Role in Improving the Course Through Assessment
+
+At UT, it is our collective responsibility to improve the state of teaching and learning. During the semester you may be requested to assess aspects of this course either during class or after the class. You are encouraged to respond to these various forms of assessment as a means of continuing to improve the quality of the UT learning experience.
+
+### Disability Statement
+
+Any student who feels they may need an accommodation based on the impact of a disability should contact [Student Disabilities Services](http://sds.utk.edu/) in Dunford Hall, at 865-974-6087, or by video relay at, 865-622-6566, to coordinate reasonable academic accommodations.
+
+### Accessibility Policy and Training
+
+More information can be found at [http://accessibility.utk.edu](http://accessibility.utk.edu)
+
+### Wellness
+
+[The Student Counseling Center](http://counselingcenter.utk.edu/) is the university's primary facility for personal counseling, psychotherapy, and psychological outreach and consultation services.
+
+[The Center for Health Education and Wellness](http://wellness.utk.edu/) manages 974-HELP, the distressed student protocol, case management, the Sexual Assault Response Team, and the Threat Assessment Task Force.
+
+### Social Distancing & Covid-19 Procedures
+
+Students are required to wear face masks at all times and maintain social distance (6 feet between individuals in traditional classrooms, or, in instructional laboratories and similar settings, only a few minutes in closer proximity when necessary to achieve learning objectives). Students who are feeling ill or experiencing symptoms such as sneezing, coughing, or a higher than normal temperature will be excused from class and should stay at home.
+
+Instructors have the right to ask those who are not complying with these requirements to leave class in the interest of everyone's health and safety. If a student refuses to comply with these requirements, the instructor has the right to cancel a class.
+
+Additionally, following other simple practices will promote good health in and out of the classroom, such as frequent and thorough hand washing, wiping down desks and seats with disinfectant wipes whenever possible, not sharing personal items such as pens and cell phones, and avoiding crowded hallways and other enclosed spaces.
+
+The Volunteer Creed reminds us that we bear the torch in order to give light to others. As Volunteers, we commit to caring for one another and for the members of the communities in which we live, work, and learn. This semester, the University asks that we all demonstrate the Volunteer spirit by following these and other health guidelines and requirements.

@@ -1,0 +1,14 @@
+# Writing interview questions
+
+The purpose of an interview is to understand better why someone made a decision, thought something, made a purchase, etc. You want the person you are interviewing to share their rationale for a decision or thoughts/opinions openly and honestly, so make sure the questions you ask allow them to do so. Whatever you are interested in, make sure the questions emphasize that you are interested in their thoughts, opinions, or rationale. And remember, this is not the survey portion, the questions do not need to be so specific that you could quantify anything.
+
+So, what kind of questions should I ask? It’ll depend on what you want to know, but generally speaking, the following couple of phrases may be helpful starting points.
+
+- What about X made you interested in purchasing it?
+- How was your experience buying X?
+- Can you describe the last time you bought X?
+- What do you think about X?
+- How would you describe your experience with X?
+- How did you find out about X?
+- How do you think X could go about fixing Y?
+- What process did you go through to make your decision to buy X?

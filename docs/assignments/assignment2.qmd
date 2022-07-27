@@ -1,0 +1,100 @@
+# Assignment 2
+
+Assignment 2 is split into 4 sections with several sub-sections.
+
+The purpose of assignment 2 is to effectively (1) design a survey and collect data, (2) analyze the data, (3) reflect on possible limitations of the research, and (4) provide some key takeaways that could provide your company some strategic advantages.
+
+## Survey Design
+
+The survey you design will depend on the research objectives you have defined earlier in the class. The goal here is to write survey questions that will accurately measure whatever is pertinent to your research objective.
+
+### Tools and Resources
+
+#### Qualtrics
+
+Qualtrics is a survey-building website. The university also provides access to this. You can log in via the university at the [qualtrics log-in](https://cas.tennessee.edu/qualtrics)log-in page.
+
+#### Prolific
+
+[Prolific](https://www.prolific.co/) is a website that handles the participant recruitment for the surveys that will be made in class. Unfortunately, this is not free. The following lays out what we'll do with Prolific.
+
+1. Not everyone needs to create a prolific account. Decide who in the group will sign-up for the prolific account. Whoever does will be responsible for fronting the money for the rest of the group, though.
+2. Create a new survey and fill out the “Study Details” section.
+3. Under “Study Link” paste the Qualtrics survey URL (this is only available after publishing the survey) and mark the “I don’t need to record these” option.
+4. Under “Study Completion” check the “I’ll redirect them using a URL” option.
+   - This should generate a unique URL for your survey. Copy this URL to your clipboard and go back to Qualtrics.
+   - Go to the end of your survey, there should be an “End of Survey” block, if there isn’t get my attention. If there is, click it and along the left side there should be a drop-down box for the end of the survey message. Select “Redirect to URL” and paste the URL into the box.
+   - Make sure that it works by going through the preview of your survey and going all the way to the end. If everything works, go back to Prolific.
+5. Under the “Audience” tab, select “everyone.” This way is the cheapest.
+6. Determine how many people you will survey based on the group’s budget.
+
+:::{.callout-important}
+Don't make an account until after we discuss it in class. I'm still considering doing this portion for the class.
+:::
+
+### Writing It Up
+
+The survey design section of Assignment 2 should be detailed enough that someone else could replicate your study. It should be approx. 2-4 pages with the following sub-sections.
+
+#### Data Collection Method
+
+This is where you can provide details regarding the collection procedures, software used, etc.
+
+#### Questionnaire Design/Layout
+
+Walk your reader through the survey, giving a rough idea of the flow of the survey and some of the questions that were asked. Please include the entire survey in the appendix.
+
+:::{.callout-tip}
+[Export the survey from Qualtrics into a Word Document](https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/import-and-export-surveys/#ExportingaSurveyasaWordDocument)
+:::
+
+#### Sample Design and Size
+
+Every part of research is a decision, including the sample. Make sure to answer the following:
+
+- What was the population you are generalizing to?
+- What type of sampling was used?
+- How many subjects completed the survey?
+
+## Analyses
+
+After having collected data from your survey, you will have to analyze it. This section details what I expect of your analyses and provides links to the tools and resources that'll be most relevant at this stage.
+
+### Tools and Resources
+
+#### SPSS
+
+SPSS will be used to analyze the data after it's been collected; however, if you feel more comfortable using R or Python, I am willing to be flexible about which software is used. If you find yourself confused with anything in SPSS, I am of course happy to help, but [Research By Design](https://www.youtube.com/channel/UCXLbK1bH-w1oklGm4dLYrHw) is a solid source for SPSS tutorials. The version of SPSS is a little older than what you'd be using, but the instructions should be roughly the same.
+
+:::{.callout-tip}
+UTK provides this for its students, so don't pay for it.
+:::
+
+### Writing It Up
+
+### Profile of the Sample
+
+This should include the demographic information of the sample and sample-related descriptive statistics.
+
+### Analyses
+
+This potion should be split into sub-sections, one for each research objective. Aim for about a page per research object and make sure to include the following:
+
+1. A review of what question(s) were asked in the survey
+2. The results of the analyses
+
+## Limitations
+
+All research is flawed, and the only way to effectively improve at anything is to be aware that you made mistakes. This section should be used to demonstrate that you are aware of the flaws in your research. It should be a minimum of 2 pages addressing anything that may have influenced the study results.
+
+:::{.callout-tip}
+Limitations that are tied directly back to the lecture, make me happy while grading, which tends to have spillover effects.
+:::
+
+## Conclusions and Recommendations
+
+The conclusions and recommendations are where you'll explain what your analyses mean and put them back into the context of your introduction. So if in your introduction/assignment 1, you decided to explore research objective X because of a societal trend, then explain what you found and how it makes sense with what you already knew from the introduction research. Additionally, provide some recommendations for the company of interest.
+
+:::{.callout-tip}
+Do not include more statistics in this section.
+:::

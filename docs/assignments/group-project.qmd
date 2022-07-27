@@ -1,0 +1,47 @@
+# Overview
+
+## Deadlines
+
+The final project is due on the last day of the semester.
+
+| Section                                              | Grade Percentage |
+| ---------------------------------------------------- | ---------------- |
+| [Executive Summary](#executive-summary)              | 15%              |
+| [Introduction](./assignment1.qmd)                    | 10%              |
+| [Survey Design](./assignment2.qmd)                   | 10%              |
+| [Analysis](./assignment2.qmd)                        | 40%              |
+| [Limitations](./assignment2.qmd)                     | 10%              |
+| [Conclusions and Recommendations](./assignment2.qmd) | 15%              |
+
+: Grading Summary
+
+
+## Executive Summary
+
+The executive summary should be the final step of the group project. This is where you will summarize the major points of the project. Many executives only read this portion. Make it as simple as you can (without overdoing it, of course). It should be roughly two pages with the key points from the following sections:
+
+- [Objectives](./03-assignment1.Rmd)
+- [Methods](./04-assignment2.Rmd)
+- [Findings](./04-assignment2.Rmd)
+- [Recommendations](./04-assignment2.Rmd)
+
+## Example Project
+
+There should be an example project that I have made available on Canvas. If I have not made that available please let me know!
+
+## Grading Rubric
+
+| Section                                 | Grade |
+| --------------------------------------- | ----- |
+| Executive Summary (15pts)               |       |
+| Introduction (10pts)                    |       |
+| Survey Design(10pts)                    |       |
+| Analysis (40pts)                        |       |
+| Limitations (10pts)                     |       |
+| Conclusions and Recommendations (15pts) |       |
+| Little redundancy                       |       |
+| Easily understood                       |       |
+| Few typos                               |       |
+| Appropriate formatting                  |       |
+| Research writing tone                   |       |
+: Final Project Grading Rubric

@@ -1,0 +1,52 @@
+# Exam 1
+
+The following is a study guide for the first exam. If you feel comfortable with the material listed below, you should be fine on the exam. 
+
+## What is/are
+
+- Basic Research
+- Applied Research
+- Marketing
+- Construct
+- The Categories of Research (Qualitative, Descriptive, and Causal)
+- Research Objective
+- Independent Variable
+- Dependent Variable
+- Extraneous Variable
+- Sampling Error
+- Self-Selection Bias
+- The Dos and Don'ts of Survey Question Writing (I would recommend being proficient at spotting the problematic questions)
+- External Validity
+- Internal Validity
+- Measure Validity
+- Measure Reliability
+- Types of Error (Random and Systematic)
+- Types of Properties (Objective and Subjective)
+- Likert Scale
+- Semantic Differential Scale
+
+## What are the goals of/When should we use
+
+- Descriptive Research Methods
+- Exploratory Research Methods
+- Causal Research Methods
+- Focus Groups
+- In-Depth Interviews
+
+## What's the difference between
+
+- Marketing Research and Market Research
+- Constructs and Variables
+- Exploratory Research, Descriptive Research, and Causal Research
+- Laboratory Experiments and Field Experiments
+- Structured and Unstructured Observation Techniques
+- Problems and Symptoms
+- Internal and External Validity
+- Measure Reliability and Measure Validity
+- Longitudinal Studies and Cross-Sectional Studies
+- Types of Measures (Nominal, Ordinal, Interval, Ratio)
+
+## What's the advantage of
+
+- Good Research Design
+- Survey Research

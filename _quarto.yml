@@ -1,0 +1,62 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+  
+website:
+  title: "Marketing Research & Insights"
+  navbar:
+    background: "#58595B"
+    foreground: "#FFFFFF"
+    left:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "Exams"
+        file: docs/exams/exams.qmd
+      - text: "Assignments/Group Project"
+        file: docs/assignments/group-project.qmd
+      - text: "Resources"
+        file: docs/resources/overview.qmd
+      - text: "Contact"
+        file: docs/about.qmd
+      - text: "Links"
+        menu:
+          - "[Qualtrics](https://cas.tennessee.edu/qualtrics)"
+          - "[Canvas](https://cas.tennessee.edu/cas/login?service=https%3A%2F%2Futk.instructure.com%2Flogin%2Fcas)"
+    
+    search: true
+
+  sidebar:
+    style: "docked"
+    tools: 
+      - icon: envelope-fill
+        href: mailto:gshiple2@vols.utk.edu
+      - icon: docs/images/canvas.png
+    collapse-level: 2
+    contents:
+      - section: "Exams"
+        contents:
+          - docs/exams/exam1.qmd
+          - docs/exams/exam2.qmd
+      - section: "Group Project"
+        contents:
+          - "docs/assignments/assignment1.qmd"
+          - "docs/assignments/assignment2.qmd"
+      - section: "Resources"
+        contents:
+          - "docs/resources/google-cheatsheet.qmd"
+          - "docs/resources/research-writing.qmd"
+          - "docs/resources/writing-interview-questions.qmd"
+          - "docs/resources/citations.qmd"
+      - section: "Contact"
+        contents:
+          - docs/about.qmd
+
+format:
+  html:
+    theme: lightly
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+    

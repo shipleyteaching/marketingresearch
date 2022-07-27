@@ -1,0 +1,32 @@
+prof:
+  name: "Garrett M. Shipley"
+  office:
+    location: ""
+    hours: ""
+  email:
+    addr: "gshiple2@vols.utk.edu"
+    mailto: "mailto:gshiple2@vols.utk.edu?subject=MARK360&body=Dear%20Professor%20Shipley,"  
+
+course:
+  name: "Marketing Research & Insights"
+  code: "MARK360"
+  term: "Summer 2022"
+  location: ""
+
+
+assignments:
+  assignment1:
+    duedate: ""
+  assignment2: 
+    duedate: ""
+  project:
+    duedate: ""
+  exams1: 
+    duedate: ""
+  exam2: 
+    duedate: ""
+
+
+links:
+  qualtrics: "[Qualtrics](https://cas.tennessee.edu/qualtrics)"
+  canvas: "[Canvas](https://cas.tennessee.edu/cas/login?service=https%3A%2F%2Futk.instructure.com%2Flogin%2Fcas)"
