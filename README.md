@@ -1,2 +1,2 @@
-# mrkres.github.io
-Marketing Research &amp; Insights
+# Marketing Research & Insights Course
+
