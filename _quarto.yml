@@ -11,7 +11,7 @@ website:
     foreground: "#FFFFFF"
     left:
       - text: "Syllabus"
-        file: index.qmd
+        file: docs/syllabus.qmd
       - text: "Exams"
         file: docs/exams/exams.qmd
       - text: "Assignments/Group Project"
@@ -35,6 +35,8 @@ website:
       - icon: docs/images/canvas.png
     collapse-level: 2
     contents:
+      - text: "Syllabus"
+        href: docs/syllabus.qmd
       - section: "Exams"
         contents:
           - docs/exams/exam1.qmd
